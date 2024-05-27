@@ -9,5 +9,4 @@ The models used are:
 - Residual UNet Model: With skip connections
 - Residual-Attention UNet Model: With skip and gating blocks
 
-##Results<be>
-![Results of Blood Vessel Segmentation](/E:/results/results-dl-dr-bv.png "Results of Blood Vessel Segmentation")
+
